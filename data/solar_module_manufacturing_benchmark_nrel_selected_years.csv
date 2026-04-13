@@ -1,0 +1,6 @@
+Year,NREL_module_manufacturing_benchmark_usd_per_watt,Source
+2010,1.55,"NREL 1H 2018 benchmark report: 2018 benchmark is $0.37/W and decline from 2010 to 1H2018 is $1.18/W, implying about $1.55/W in 2010."
+2015,0.65,"NREL 1H 2018 benchmark report: decline from 2010 to 2015 is $0.90/W; with implied 2010 level about $1.55/W, 2015 is about $0.65/W."
+2018,0.37,NREL 1H 2018 benchmark report: benchmark c-Si module MSP is $0.37/W in 1H 2018.
+2020,0.26,NREL 2020 benchmark report: c-Si module MSP reported as $0.25-$0.27/W; plotting midpoint $0.26/W.
+2024,0.25,PVSCM 2024 uploaded text (UPV 2024Q1): Module MSP benchmark range $211-$289/kWdc; plotting midpoint $250/kWdc = $0.25/W.
